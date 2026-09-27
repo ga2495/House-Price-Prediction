@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Streamlit local config
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
